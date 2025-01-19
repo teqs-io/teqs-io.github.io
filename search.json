@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "TEQS Blog",
+    "section": "",
+    "text": "Welcome to the TEQS blog where we share insights about testing, quality, and software engineering."
+  },
+  {
+    "objectID": "blog.html#latest-posts",
+    "href": "blog.html#latest-posts",
+    "title": "TEQS Blog",
+    "section": "",
+    "text": "Welcome to the TEQS blog where we share insights about testing, quality, and software engineering."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Quantifying Our Planet: Open-Source Solutions for Terrain & Environment\n    \n      TEQS (Terrain and Environment Quantification Systems) \n      works on high-resolution geospatial analysis, environmental monitoring, \n      and AI-driven decision-making.\n    \n    \n      Explore Projects\n      View on GitHub\n    \n  \n\n\n\n\n  \n    \n    \n      \n        Open Collaboration\n        TEQS is fully open-source, welcoming community-driven contributions.\n      \n      \n        AI-Powered\n        Leverage GNNs, transformer models, and HPC pipelines for next-gen analytics."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\nFor general inquiries, media requests, or partnership opportunities, reach out:\n\nGeneral Inquiries: info@teqs.io\nPress & Media: press@teqs.io\n\nDownloadable press kit, logos, references"
+  },
+  {
+    "objectID": "posts/1.html",
+    "href": "posts/1.html",
+    "title": "Welcome to TEQS",
+    "section": "",
+    "text": "We’re excited to launch our new blog…"
+  },
+  {
+    "objectID": "posts/1.html#welcome-to-teqs",
+    "href": "posts/1.html#welcome-to-teqs",
+    "title": "Welcome to TEQS",
+    "section": "",
+    "text": "We’re excited to launch our new blog…"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A robust data ingestion and HPC orchestration engine for spatiotemporal datasets, supporting multi-cloud and on-premises clusters.\n\n\n\nSuite of AI modules, including transformer-based pipelines, graph neural networks (GNNs), time-series analysis, and multi-modal sensor fusion for large-scale environmental monitoring.\n\n\n\nInteractive 3D terrain rendering, AR/VR overlays, and NeRF-based (Neural Radiance Fields) integration for immersive environment reconstructions.\n\n\n\n\nTEQS-IoT for edge-based data collection\n\nTEQS-Cloud for serverless HPC pipelines, etc."
+  },
+  {
+    "objectID": "projects.html#teqs-core",
+    "href": "projects.html#teqs-core",
+    "title": "Projects",
+    "section": "",
+    "text": "A robust data ingestion and HPC orchestration engine for spatiotemporal datasets, supporting multi-cloud and on-premises clusters."
+  },
+  {
+    "objectID": "projects.html#teqs-analytics",
+    "href": "projects.html#teqs-analytics",
+    "title": "Projects",
+    "section": "",
+    "text": "Suite of AI modules, including transformer-based pipelines, graph neural networks (GNNs), time-series analysis, and multi-modal sensor fusion for large-scale environmental monitoring."
+  },
+  {
+    "objectID": "projects.html#teqs-visualization",
+    "href": "projects.html#teqs-visualization",
+    "title": "Projects",
+    "section": "",
+    "text": "Interactive 3D terrain rendering, AR/VR overlays, and NeRF-based (Neural Radiance Fields) integration for immersive environment reconstructions."
+  },
+  {
+    "objectID": "projects.html#additional-repositories",
+    "href": "projects.html#additional-repositories",
+    "title": "Projects",
+    "section": "",
+    "text": "TEQS-IoT for edge-based data collection\n\nTEQS-Cloud for serverless HPC pipelines, etc."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About TEQS",
+    "section": "",
+    "text": "Our mission is to develop open-source, cutting-edge systems for high-fidelity terrain and environment analysis, leveraging transformer-based geospatial pipelines, multi-modal data fusion, and HPC integrations.\n\n\n\nTEQS was inspired by leading arXiv research on remote sensing, foundation models, and advanced machine learning approaches for environmental data.\n\n\n\nOur core team spans environmental scientists, ML engineers, and HPC experts, collaborating with academic institutions and open-source communities worldwide."
+  },
+  {
+    "objectID": "about.html#mission-vision",
+    "href": "about.html#mission-vision",
+    "title": "About TEQS",
+    "section": "",
+    "text": "Our mission is to develop open-source, cutting-edge systems for high-fidelity terrain and environment analysis, leveraging transformer-based geospatial pipelines, multi-modal data fusion, and HPC integrations."
+  },
+  {
+    "objectID": "about.html#history-origins",
+    "href": "about.html#history-origins",
+    "title": "About TEQS",
+    "section": "",
+    "text": "TEQS was inspired by leading arXiv research on remote sensing, foundation models, and advanced machine learning approaches for environmental data."
+  },
+  {
+    "objectID": "about.html#team",
+    "href": "about.html#team",
+    "title": "About TEQS",
+    "section": "",
+    "text": "Our core team spans environmental scientists, ML engineers, and HPC experts, collaborating with academic institutions and open-source communities worldwide."
+  }
+]
