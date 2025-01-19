@@ -1,0 +1,22 @@
+---
+title: "Projects"
+---
+
+# TEQS Projects
+
+## TEQS Core
+A robust data ingestion and HPC orchestration engine for 
+spatiotemporal datasets, supporting multi-cloud and on-premises clusters.
+
+## TEQS Analytics
+Suite of AI modules, including transformer-based pipelines, 
+graph neural networks (GNNs), time-series analysis, and multi-modal 
+sensor fusion for large-scale environmental monitoring.
+
+## TEQS Visualization
+Interactive 3D terrain rendering, AR/VR overlays, and NeRF-based (Neural Radiance Fields) 
+integration for immersive environment reconstructions.
+
+## Additional Repositories
+- **TEQS-IoT** for edge-based data collection  
+- **TEQS-Cloud** for serverless HPC pipelines, etc.

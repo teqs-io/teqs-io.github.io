@@ -1,0 +1,20 @@
+---
+title: "TEQS Blog"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+## Latest Posts
+
+::: {.grid}
+::: {.g-col-12}
+Welcome to the TEQS blog where we share insights about testing, quality, and software engineering.
+:::
+:::

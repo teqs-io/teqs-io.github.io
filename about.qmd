@@ -1,0 +1,23 @@
+---
+title: "About TEQS"
+---
+
+# About TEQS
+
+## Mission & Vision
+
+Our mission is to develop open-source, cutting-edge systems for 
+high-fidelity terrain and environment analysis, leveraging 
+transformer-based geospatial pipelines, multi-modal data fusion, 
+and HPC integrations.
+
+## History & Origins
+
+TEQS was inspired by leading arXiv research on remote sensing, 
+foundation models, and advanced machine learning approaches 
+for environmental data.
+
+## Team
+
+Our core team spans environmental scientists, ML engineers, and HPC experts, 
+collaborating with academic institutions and open-source communities worldwide.

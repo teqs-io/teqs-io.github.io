@@ -1,0 +1,11 @@
+---
+title: "Welcome to TEQS"
+description: "Introduction to TEQS and our mission"
+author: "TEQS Team"
+date: "2024-03-20"
+categories: [news]
+---
+
+## Welcome to TEQS
+
+We're excited to launch our new blog...

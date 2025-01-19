@@ -1,0 +1,40 @@
+---
+title: "Home"
+
+---
+
+```{=html}
+<!-- Hero Section -->
+<section class="hero-section text-center p-5" style="center/cover no-repeat; color: #fff;">
+  <div class="container">
+    <h1 class="display-4">Quantifying Our Planet: Open-Source Solutions for Terrain & Environment</h1>
+    <p class="lead mt-3">
+      <b>TEQS (Terrain and Environment Quantification Systems)</b> 
+      works on high-resolution geospatial analysis, environmental monitoring, 
+      and AI-driven decision-making.
+    </p>
+    <div class="mt-4">
+      <a href="projects.qmd" class="btn btn-primary btn-lg">Explore Projects</a>
+      <a href="https://github.com/TEQS-io" target="_blank" class="btn btn-secondary btn-lg">View on GitHub</a>
+    </div>
+  </div>
+</section>
+
+<!-- Additional Intro or Highlights Section (Optional) -->
+<section class="py-5">
+  <div class="container">
+    <!-- Your 3-4 Feature Cards or any introduction content -->
+    <div class="row">
+      <div class="col-md-6">
+        <h2>Open Collaboration</h2>
+        <p>TEQS is fully open-source, welcoming community-driven contributions.</p>
+      </div>
+      <div class="col-md-6">
+        <h2>AI-Powered</h2>
+        <p>Leverage GNNs, transformer models, and HPC pipelines for next-gen analytics.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+```

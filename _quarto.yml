@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "TEQS"
+  navbar:
+    logo: /static/logo.png
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Blog"
+        href: blog.qmd
+      - text: "Contact"
+        href: contact.qmd
+    right:
+      - text: "GitHub"
+        href: "github.com/teqs-io"
+  page-footer: "Copyright 2025, Taimur Khan - Adsata e.K." 
+
+# Choose a built-in or bootswatch theme (cosmo, minty, etc.)
+format:
+  html:
+    theme: cosmo
+    toc: false        # no table of contents on the side
+    css: [styles.css] # our custom CSS file for further tweaks

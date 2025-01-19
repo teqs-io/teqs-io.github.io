@@ -1,0 +1,39 @@
+/* css styles */
+/* styles.css */
+
+.hero-section {
+    min-height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: #333; /* fallback if no background image */
+    color: #fff;
+  }
+  
+  .hero-section .container h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+  }
+  
+  .hero-section .container p {
+    font-size: 1.2rem;
+  }
+  
+  .btn.btn-primary {
+    background-color: #2f855a; /* custom color override for primary button */
+    border-color: #2f855a;
+  }
+  
+  .btn.btn-secondary {
+    background-color: #4a5568; 
+    border-color: #4a5568;
+  }
+  
+  .navbar-logo {
+    max-height: 100px;
+  }
+
+  .quarto-title > h1.title {
+    opacity: 0 !important;
+  }
